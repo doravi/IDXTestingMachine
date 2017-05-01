@@ -1,1 +1,0 @@
-../mk/install_vnc.sh
